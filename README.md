@@ -1,5 +1,5 @@
 # farmcoolcow/duplicity-cron 
-[![](https://img.shields.io/badge/  FROM  -farmcoolcow/entrypoints-lightgray.svg)](https://hub.docker.com/r/farmcoolcow/entrypoints) ![](https://images.microbadger.com/badges/commit/farmcoolcow/duplicity.svg)  ![](https://images.microbadger.com/badges/commit/farmcoolcow/duplicity-cron.svg) ![](https://images.microbadger.com/badges/image/farmcoolcow/duplicity-cron.svg) ![](https://images.microbadger.com/badges/license/farmcoolcow/duplicity-cron.svg)
+[![](https://img.shields.io/badge/  FROM  -farmcoolcow/entrypoints-lightgray.svg)](https://hub.docker.com/r/farmcoolcow/entrypoints) ![](https://images.microbadger.com/badges/commit/farmcoolcow/duplicity-cron.svg) ![](https://images.microbadger.com/badges/image/farmcoolcow/duplicity-cron.svg) ![](https://images.microbadger.com/badges/license/farmcoolcow/duplicity-cron.svg)
 
 ---
 
