@@ -1,5 +1,9 @@
 # farmcoolcow/duplicity-cron 
-[![](https://img.shields.io/badge/  FROM  -farmcoolcow/entrypoints-lightgray.svg)](https://hub.docker.com/r/farmcoolcow/entrypoints) ![](https://images.microbadger.com/badges/commit/farmcoolcow/duplicity-cron.svg) ![](https://images.microbadger.com/badges/image/farmcoolcow/duplicity-cron.svg) ![](https://images.microbadger.com/badges/license/farmcoolcow/duplicity-cron.svg)
+
+[![](https://img.shields.io/badge/  FROM  -farmcoolcow/duplicity-lightgray.svg)](https://hub.docker.com/r/farmcoolcow/duplicity) 
+[![](https://images.microbadger.com/badges/commit/farmcoolcow/duplicity-cron.svg)](https://github.com/coolcow/docker_duplicity-cron/commits/master) 
+[![](https://images.microbadger.com/badges/image/farmcoolcow/duplicity-cron.svg)](https://microbadger.com/images/farmcoolcow/duplicity-cron) 
+[![](https://images.microbadger.com/badges/license/farmcoolcow/duplicity-cron.svg)](https://raw.githubusercontent.com/coolcow/docker_duplicity-cron/master/LICENSE.txt)
 
 ---
 
