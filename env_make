@@ -1,2 +1,7 @@
+NAMESPACE = farmcoolcow
+NAME = duplicity-cron
+INSTANCE = test
+DEPENDENCIES = alpine farmcoolcow/entrypoints farmcoolcow/duplicity
+VERSION ?= latest
 ENVIRONMENTS = 
 VOLUMES = 
